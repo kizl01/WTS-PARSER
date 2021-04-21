@@ -1,4 +1,4 @@
-module github.com/kizl01/WTS-PARSER
+module github.com/runi95/wts-parser
 
 go 1.12
 
