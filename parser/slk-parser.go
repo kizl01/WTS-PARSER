@@ -2,8 +2,8 @@ package parser
 
 import (
 	"fmt"
-	"github.com/runi95/wts-parser/models"
-	"github.com/runi95/wts-parser/templates"
+	"github.com/kizl01/WTS-PARSER/models"
+	"github.com/kizl01/WTS-PARSER/templates"
 	"gopkg.in/volatiletech/null.v6"
 	"log"
 	"os"

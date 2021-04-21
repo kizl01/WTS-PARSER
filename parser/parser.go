@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"encoding/json"
 	"fmt"
-	"github.com/runi95/wts-parser/models"
+	"github.com/kizl01/WTS-PARSER/models"
 	"gopkg.in/volatiletech/null.v6"
 	"log"
 	"math"
